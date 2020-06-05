@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=ch5/src&lt;ch5{Tv.java[Tv" modifiers="1" timestamp="1581575156982"/>
+<typeInfo handle="=ch5/src&lt;ch5{CellPhone.java[CellPhone" modifiers="1" timestamp="1581579989891"/>
+<typeInfo handle="=ch5/src&lt;ch5{Parnet.java[Parnet" modifiers="1" timestamp="1581577040387"/>
+<typeInfo handle="=ch5/src&lt;ch5{Child1.java[Child1" modifiers="1" timestamp="1581577073112"/>
+<typeInfo handle="=ch5/src&lt;inherit{CellPhone.java[CellPhone" modifiers="1" timestamp="1581586620297"/>
+<typeInfo handle="=ch5/src&lt;inherit{CheckingAccount.java[CheckingAccount" modifiers="1" timestamp="1581586620289"/>
+<typeInfo handle="=ch5/src&lt;inherit{Account.java[Account" modifiers="1" timestamp="1581586620281"/>
+<typeInfo handle="=ch5/src&lt;inherit{ListString.java[ListString" modifiers="1" timestamp="1581664333497"/>
+<typeInfo handle="=ch5/src&lt;inherit{Calculator.java[Calculator" modifiers="1" timestamp="1581664622489"/>
+<typeInfo handle="=ch5/src&lt;inherit{Car.java[Car" modifiers="1" timestamp="1581665493634"/>
+<typeInfo handle="=ch5/src&lt;inherit{Unit.java[Unit" modifiers="1" timestamp="1581666830256"/>
+<typeInfo handle="=ch5/src&lt;poly{Canine.java[Canine" modifiers="1" timestamp="1581916700652"/>
+<typeInfo handle="=ch5/src&lt;poly{Feline.java[Feline" modifiers="1" timestamp="1581916845337"/>
+<typeInfo handle="=ch5/src&lt;poly{Parent.java[Parent" modifiers="1" timestamp="1581918849522"/>
+<typeInfo handle="=ch5/src&lt;poly{Employee.java[Employee" modifiers="1" timestamp="1581922786806"/>
+<typeInfo handle="=ch5/src&lt;poly{Vehicle.java[Vehicle" modifiers="1" timestamp="1581925755801"/>
+<typeInfo handle="=ch5/src&lt;poly{Tire.java[Tire" modifiers="1" timestamp="1582004542787"/>
+<typeInfo handle="=ch5/src&lt;abstract_class{Account.java[Account" modifiers="1025" timestamp="1582007224098"/>
+<typeInfo handle="=ch5/src&lt;abstract_class{Player.java[Player" modifiers="1025" timestamp="1582009768412"/>
+<typeInfo handle="=ch5/src&lt;poly{Animal.java[Animal" modifiers="1" timestamp="1581916229914"/>
+<typeInfo handle="=ch5/src&lt;abstract_class{Animal.java[Animal" modifiers="1025" timestamp="1582010151314"/>
+<typeInfo handle="=ch5/src&lt;inherit{Tv.java[Tv" modifiers="1" timestamp="1582013103279"/>
+<typeInfo handle="=Anithing/src&lt;anithing{Parent.java[Parent" modifiers="1" timestamp="1582088493458"/>
+<typeInfo handle="=ch6/src&lt;ch6{A.java[A" modifiers="513" timestamp="1582091628867"/>
+<typeInfo handle="=ch6/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.rmi(Remote.class[Remote" modifiers="1537" timestamp="1579759508554"/>
+<typeInfo handle="=ch6/src&lt;ch6{RemoteControl.java[RemoteControl" modifiers="513" timestamp="1582093717114"/>
+<typeInfo handle="=ch6/src&lt;ch6{Searchable.java[Searchable" modifiers="513" timestamp="1582092805636"/>
+<typeInfo handle="=ch6/src&lt;ch6{Moveable.java[Moveable" modifiers="513" timestamp="1582093717150"/>
+<typeInfo handle="=ch6/src&lt;ch6{Attackable.java[Attackable" modifiers="513" timestamp="1582093717124"/>
+<typeInfo handle="=ch6/src&lt;ch6{Fightable.java[Fightable" modifiers="513" timestamp="1582093717102"/>
+<typeInfo handle="=ch6/src&lt;ch6{CDInfo.java[CDInfo" modifiers="1" timestamp="1582096299126"/>
+<typeInfo handle="=ch6/src&lt;ch6{Lendable.java[Lendable" modifiers="513" timestamp="1582095405056"/>
+<typeInfo handle="=Example/src&lt;ch_8{Soundable.java[Soundable" modifiers="513" timestamp="1582099807649"/>
+<typeInfo handle="=Example/src&lt;ch_8{DataAccessObject.java[DataAccessObject" modifiers="513" timestamp="1582100115363"/>
+<typeInfo handle="=shop/src&lt;shop{IShop.java[IShop" modifiers="513" timestamp="1582179498933"/>
+<typeInfo handle="=ch7/src&lt;ch7{Animal.java[Animal" modifiers="1" timestamp="1582271567715"/>
+<typeInfo handle="=ch7/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1579759508554"/>
+<typeInfo handle="=user/src&lt;action{Action.java[Action" modifiers="513" timestamp="1584336193473"/>
+<typeInfo handle="=book/src&lt;action{Action.java[Action" modifiers="513" timestamp="1584422296370"/>
+<typeInfo handle="=ch12/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1579759508554"/>
+<typeInfo handle="=student/src&lt;action{Action.java[Action" modifiers="513" timestamp="1584686775117"/>
+<typeInfo handle="=gui/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.awt(Frame.class[Frame" modifiers="33" timestamp="1579759508554"/>
+<typeInfo handle="=gui/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;javax.swing(JFrame.class[JFrame" modifiers="33" timestamp="1579759508554"/>
+</typeInfoHistroy>
